@@ -20,6 +20,7 @@
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+## String
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+## Sorting
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
