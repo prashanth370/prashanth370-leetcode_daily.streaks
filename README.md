@@ -25,6 +25,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Search
 |  |
 | ------- |
