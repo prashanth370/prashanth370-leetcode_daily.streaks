@@ -23,6 +23,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -91,6 +92,7 @@
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
@@ -127,6 +129,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String Matching
 |  |
 | ------- |
