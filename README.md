@@ -80,6 +80,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -139,6 +143,7 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
