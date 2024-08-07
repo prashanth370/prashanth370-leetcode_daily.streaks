@@ -11,7 +11,7 @@
 #                     return True
 #         return False
 
-
+'''
 class Solution:
     def check(self, nums: List[int]) -> bool:
         count = 0
@@ -22,3 +22,12 @@ class Solution:
                 count += 1
                 
         return count <= 1
+'''
+
+class Solution:
+    def check(self, nums: List[int]) -> bool:
+        for i in range(len(nums)):
+            if nums[i:]+nums[:i]==sorted(nums):
+                return True
+        return False
+        
