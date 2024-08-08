@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1333-sort-the-jumbled-numbers) |
@@ -172,6 +173,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## String Matching
