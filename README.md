@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
@@ -236,4 +237,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
