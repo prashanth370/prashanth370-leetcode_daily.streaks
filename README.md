@@ -22,6 +22,7 @@
 | [0040-combination-sum-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0890-lemonade-change) |
@@ -168,6 +169,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
