@@ -38,6 +38,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -65,6 +66,7 @@
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Recursion
 |  |
 | ------- |
