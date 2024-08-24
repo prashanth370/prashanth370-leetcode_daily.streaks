@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
+| [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1756-minimum-deletions-to-make-string-balanced) |
