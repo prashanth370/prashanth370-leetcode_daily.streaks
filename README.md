@@ -31,6 +31,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1240-stone-game-ii) |
+| [1325-path-with-maximum-probability](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -89,6 +90,7 @@
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
@@ -153,6 +155,7 @@
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
