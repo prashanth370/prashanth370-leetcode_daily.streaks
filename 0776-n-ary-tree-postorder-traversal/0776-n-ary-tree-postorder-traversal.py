@@ -5,6 +5,8 @@ class Node:
         self.val = val
         self.children = children
 """
+
+
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
         if not root:
