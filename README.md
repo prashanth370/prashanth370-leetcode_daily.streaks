@@ -40,6 +40,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -106,6 +107,7 @@
 | [0921-spiral-matrix-iii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
@@ -209,6 +211,7 @@
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -244,10 +247,12 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
