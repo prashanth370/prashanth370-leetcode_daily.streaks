@@ -57,6 +57,7 @@
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0650-2-keys-keyboard) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
@@ -248,6 +250,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0921-spiral-matrix-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2132-convert-1d-array-into-2d-array) |
