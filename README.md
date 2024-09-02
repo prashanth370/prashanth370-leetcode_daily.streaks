@@ -41,6 +41,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -200,6 +201,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1240-stone-game-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Depth-First Search
 |  |
