@@ -11,3 +11,17 @@ class Solution:
             num = sum(int(digit) for digit in str(num))
         
         return num
+
+# class Solution:
+#     def getLucky(self, s: str, k: int) -> int:
+#         # Step 1: Convert the string to an integer representation
+#         num_str = ''.join(str(ord(char) - ord('a') + 1) for char in s)
+        
+#         # Step 2: Convert num_str to an integer and sum its digits
+#         k = sum(int(d) for d in num_str)
+        
+#         # Step 3: Perform digit sum operation k-1 times
+#         for _ in range(k - 1):
+#             k = sum(int(d) for d in str(k))
+        
+#         return k
