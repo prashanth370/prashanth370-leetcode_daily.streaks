@@ -21,6 +21,7 @@
 | [0018-4sum](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0040-combination-sum-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0624-maximum-distance-in-arrays) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
