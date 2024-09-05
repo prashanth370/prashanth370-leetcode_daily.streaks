@@ -12,7 +12,8 @@ class Solution:
             res[i] +=1
         return res
        
-       
+        # if remaining_sum < n or remaining_sum > 6*n:
+        #     return []
        
        
        
