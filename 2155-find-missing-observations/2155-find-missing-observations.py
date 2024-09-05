@@ -3,17 +3,119 @@ class Solution:
         m = len(rolls)
         sum1 = mean * (n+m)
         remaining_sum = sum1 - sum(rolls) 
-
-        if remaining_sum < n or remaining_sum > 6*n:
-            return []
-
         avg = remaining_sum //n
         rem = remaining_sum%n
-
+        if avg > 6 or avg <= 0 or (avg == 6 and rem > 0):
+            return []
         res = [avg] * n
         for i in range(rem):
             res[i] +=1
         return res
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
       
 
 # class Solution:
