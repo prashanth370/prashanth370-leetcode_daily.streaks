@@ -1,0 +1,40 @@
+# class Solution:
+#     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
+#         m = len(rolls)
+#         sum1 = mean * (n+m) #32
+#         for i in range(m):
+#             sum1 -= rolls[i]
+
+#         if sum1 <n or sum1>6*n:
+#             return []
+        
+#         avg = sum1//n
+#         rem = sum1%n
+#         res = []
+#         for i in range(n):
+#             res[i] = avg
+#             if (rem>0):
+#                 res[i] +=1
+#                 rem -=1
+#         return res
+
+class Solution:
+    def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
+        m = len(rolls)
+        sum1 = mean * (n+m) #32
+        for i in range(m):
+            sum1 -= rolls[i]
+
+        if sum1 < n or sum1 > 6*n:
+            return []
+        
+        avg = sum1 // n
+        rem = sum1 % n
+        res = []
+        for i in range(n):
+            if rem > 0:
+                res.append(avg + 1)
+                rem -= 1
+            else:
+                res.append(avg)
+        return res
