@@ -55,6 +55,7 @@
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0476-number-complement) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
