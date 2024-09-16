@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
@@ -68,6 +69,7 @@
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
+| [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0650-2-keys-keyboard) |
@@ -155,6 +157,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
+| [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0018-4sum) |
+| [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1333-sort-the-jumbled-numbers) |
