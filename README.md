@@ -67,6 +67,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
@@ -103,12 +105,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1013-fibonacci-number) |
 ## Graph
 |  |
@@ -158,6 +162,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
