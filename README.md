@@ -162,6 +162,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0214-shortest-palindrome) |
 ## Simulation
 |  |
 | ------- |
@@ -379,4 +381,12 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
