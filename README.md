@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0906-walking-robot-simulation) |
@@ -357,6 +358,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0023-merge-k-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1484-linked-list-in-binary-tree) |
@@ -436,4 +439,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
