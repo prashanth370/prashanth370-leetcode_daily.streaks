@@ -67,6 +67,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -170,6 +171,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -215,6 +217,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -321,6 +324,7 @@
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
 | ------- |
