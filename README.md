@@ -157,6 +157,7 @@
 | [0264-ugly-number-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -187,6 +188,7 @@
 | [0415-add-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -284,6 +286,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0567-permutation-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Prefix Sum
@@ -322,6 +325,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
