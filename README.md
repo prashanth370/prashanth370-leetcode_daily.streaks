@@ -66,6 +66,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -224,6 +225,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -241,6 +243,7 @@
 | [0948-sort-an-array](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
@@ -291,6 +294,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -308,6 +312,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -342,6 +347,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashanth370/prashanth370-leetcode_daily.streaks/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String Matching
 |  |
